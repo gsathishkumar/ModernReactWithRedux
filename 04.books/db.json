@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "Java",
+      "id": 1
+    },
+    {
+      "title": "Harnessing Hibernate",
+      "id": 3
+    }
+  ]
+}
